@@ -1,0 +1,2 @@
+HTML-> Hype Text Markup Language : 
+태그로 작성하면 그대로 해석되어화면에 표시
